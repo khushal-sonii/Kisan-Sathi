@@ -1,0 +1,8 @@
+{
+  "name": "kisan sathi",
+  "description": "A mobile-first AI-powered crop pest and disease identification app for Indian farmers, featuring audio guidance and Hindi support.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
