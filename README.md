@@ -47,10 +47,19 @@ With a clean and farmer-friendly interface, AgroVision AI helps improve producti
 
 ## 📦 Download APK
 
-🚀 Install the latest version of AgroVision AI:
+<div align="center">
 
-👉 **[Download APK](https://img.shields.io/badge/Download-APK-success?style=for-the-badge&logo=android)(./apk/app-release.apk)**
+### 🚀 Get Kisan Sathi
 
+<p>
+<a href="./apk/app-release.apk">
+  <img src="https://img.shields.io/badge/Download-Android%20APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
+</a>
+</p>
+
+**👉 Tap the button above to download and install the app**
+
+</div>
 
 ### 🔔 Important Notes
 
