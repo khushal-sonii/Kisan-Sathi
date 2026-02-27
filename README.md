@@ -47,7 +47,7 @@ With a clean and farmer-friendly interface, AgroVision AI helps improve producti
 
 ## 📦 Download APK
 
-<div align="center">
+<div>
 
 ### 🚀 Get Kisan Sathi
 
